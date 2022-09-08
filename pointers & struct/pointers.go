@@ -60,5 +60,4 @@ func main() {
 	// Use the addition3 function
 	addition3(originalArray)
 	fmt.Printf("\nOriginal Array: %v", originalArray)
-
 }
