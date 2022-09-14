@@ -1,11 +1,12 @@
 package main
 
-// Here we're gonna focus on error handling by giving a simple example.
-// Our example is going to about reading a file because it's kinda real world problem.
 import (
 	"fmt"
 	"os"
 )
+
+// Here we're gonna focus on error handling by giving a simple example.
+// Our example is going to about reading a file because it's kinda real world problem.
 
 // Create a function to open the file we want to open
 func openFile() {
